@@ -27,13 +27,12 @@ Step 3:Data Visulization Using( R Programming languages): Data visualization is 
 
 
 
-![image](https://github.com/YashMohare/Netflix_SHOW_Analysis-Using-Power-Bi/assets/160584848/082cfb6b-abb4-47e4-b71e-d24d9c662155)
 ![image](https://github.com/YashMohare/Netflix_SHOW_Analysis-Using-Power-Bi/assets/160584848/ae2d3e40-10e2-4d79-87b8-3c31d753a3aa)
 
 
 
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -73,8 +72,6 @@ Question 4]  TMDB popularity with respect to age_certification?
 
 
 
-
-
 ![image](https://github.com/YashMohare/Netflix_SHOW_Analysis-Using-Power-Bi/assets/160584848/d7217ece-c78d-4bb4-aecb-eea65915abe9)
 
 Question 5]  IMDB Votes With respect to age_certification?
@@ -86,6 +83,10 @@ Question 5]  IMDB Votes With respect to age_certification?
 
 
 
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Final DASHBOARD :- NETFLIX_TV/SHOWS_DATA_ANALYSIS.
 
